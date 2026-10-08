@@ -1,0 +1,7 @@
+node_modules/
+droid-sweep-out/
+fixture-app/build/
+fixture-app/.gradle/
+fixture-app/app/build/
+*.log
+local.properties

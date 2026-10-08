@@ -1,0 +1,11 @@
+{
+  "name": "droid-sweep",
+  "version": "0.1.0",
+  "description": "Automatically explore every reachable screen of an Android app on an emulator and verify it (accessibility, layout, crashes, logcat).",
+  "license": "MIT",
+  "type": "commonjs",
+  "bin": { "droid-sweep": "bin/droid-sweep.js" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" },
+  "files": ["bin", "src", "README.md", "LICENSE"]
+}

@@ -1,0 +1,6 @@
+10-08 10:00:02.000  4242  4242 W Choreographer: Skipped 87 frames!  The application may be doing too much work on its main thread.
+10-08 10:00:02.100  4242  4242 D StrictMode: StrictMode policy violation; ~duration=120 ms: android.os.strictmode.DiskReadViolation
+10-08 10:00:02.200  4242  4300 E NetworkClient: Request failed: timeout
+10-08 10:00:02.200  4242  4300 E NetworkClient: Request failed: timeout
+10-08 10:00:02.300  1111  1111 E OtherApp: not ours
+10-08 10:00:03.000  1000  1000 E ActivityManager: ANR in com.example.demo (com.example.demo/.MainActivity)
